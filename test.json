@@ -1,0 +1,61 @@
+{
+    "Location": "Novod severo or zelen train",
+    "Boxes": {
+        "first": {
+            "Crate spawn chance": "100%",
+            "Minimum amount of loot": 2,
+            "Maximum amount of loot": 2,
+            "Total items": 22,
+            "Loot": {
+                "4 door military locker kit": "4.55%",
+                "Ammo box": "4.55%",
+                "Box of nails": "18.18%",
+                "Cement mix": "4.55%",
+                "Codelock": "9.09%",
+                "Concrete block": "4.55%",
+                "Greenhouse kit": "4.55%",
+                "Grenade box": "4.55%",
+                "Gunrack kit": "4.55%",
+                "Large tent": "4.55%",
+                "Medium tent": "4.55%",
+                "Military crate": "9.09%",
+                "Militray locker kit": "4.55%",
+                "Mortar mix": "4.55%",
+                "Rifle safe kit": "4.55%",
+                "Storage box kit": "4.55%",
+                "Tier 3 gate kit": "4.55%"
+            },
+            "Loot categorized": {
+                "Building supply": "100.00%"
+            }
+        },
+        "second": {
+            "Crate spawn chance": "100%",
+            "Minimum amount of loot": 2,
+            "Maximum amount of loot": 2,
+            "Total items": 22,
+            "Loot": {
+                "4 door military locker kit": "4.55%",
+                "Ammo box": "4.55%",
+                "Box of nails": "18.18%",
+                "Cement mix": "4.55%",
+                "Codelock": "9.09%",
+                "Concrete block": "4.55%",
+                "Greenhouse kit": "4.55%",
+                "Grenade box": "4.55%",
+                "Gunrack kit": "4.55%",
+                "Large tent": "4.55%",
+                "Medium tent": "4.55%",
+                "Military crate": "9.09%",
+                "Militray locker kit": "4.55%",
+                "Mortar mix": "4.55%",
+                "Rifle safe kit": "4.55%",
+                "Storage box kit": "4.55%",
+                "Tier 3 gate kit": "4.55%"
+            },
+            "Loot categorized": {
+                "Building supply": "100.00%"
+            }
+        }
+    }
+}
