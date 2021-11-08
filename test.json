@@ -1,4 +1,4 @@
-{
+{{
         "Novod severo or zelen train": {
             "Minimum amount of crates": 2,
             "Maximum amount of crates": 2,
@@ -116,3 +116,4 @@
             }
         }
     }
+}
